@@ -1,10 +1,6 @@
-# monty
+# MONTY
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
-
-
-## Resources
-- Read or watch:
 
 ## Google
 - How do I use extern to share variables between source files in C?
