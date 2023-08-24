@@ -1,9 +1,9 @@
 #include "monty.h"
 /**
- * main - Monty byte cocde compiler
+ * main - Entry point of Monty byte code compiler
  * @argc: points to the argument counter
  * @argv: points to the argument vector
- * Return: an integer value 1 onerror otherwise 0;
+ * Return: an integer value 1 otherwise 0;
  */
 int main(int argc, char *argv[])
 {
